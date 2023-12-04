@@ -25,7 +25,7 @@ The dataset we have chosen for analysis is the Motor Vehicle Collisions in New Y
 <h2>Question One:</h2>
 1. In 2022, How do the different numbers of traffic incidents and resulting deaths vary across different boroughs (Bronx, Brooklyn, Manhattan, Queens, Staten Island) in NYC during rush hours (9 AM and 5 PM), as visualized on a Tableau Coordinate Map?
 
-Importance & Relevance:
+<h1>Importance & Relevance:<h1>
 Safety Insights: This Tableau coordinate map helps determine which NYC boroughs are most impacted by vehicle-related deaths. By using the coordinate map to find trends within different areas of the city, public health programs and safety measures can be specifically targeted to areas in the most need. For example, Queens had the most deaths at 3.
 Guiding Policy Decisions: This coordinate map can help NYC policymakers identify which locations and Burroughs need targeted traffic rules or better road safety infrastructure by providing a visual representation of the overall distribution of traffic incidents and fatalities in the most recently completed calendar year.
 Resource Allocation: Reducing response times in high-risk locations may be achieved by strategically placing emergency response services, emergency rooms, and other traffic resources with the use of insights regarding the geographic distribution of vehicular accidents and related fatalities.
