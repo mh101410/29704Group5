@@ -36,6 +36,7 @@ Community Awareness: The results may be utilized to change driving behavior in h
 
 Traffic Safety Measures Testing: The information may prove useful in evaluating the performance of current traffic safety initiatives in various boroughs and pinpointing opportunities for enhancement.
 <h3>Tie to the Dataset:</h3>
+
 The dataset we chose is located at (https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes) and is perfect for this kind of geographical analysis since it contains a thorough record of traffic accidents and deaths along with latitude and longitude coordinates. 
 
 These incidents described- we displayed on a coordinate map, to highlight significant regional patterns and trends.
