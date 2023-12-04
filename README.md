@@ -27,6 +27,8 @@ The dataset we have chosen for analysis is the Motor Vehicle Collisions in New Y
 
 <h2>Manipulations of the Data Set:</h2>
 
+The only manipulation we made on the dataset was the exclusion of those rows in which the time reported for the crash was exactly midnight (i.e. 12:00 AM or 0:00 in 24-hour time). The timing of these reports is likely the result of the police not listing the actual time of the crash and just the date. As a result, there was an excessively high number of reports all at midnight, which greatly skewed the data. Because our analysis focuses on trends of crashes based on time of day, we decided it would be best to exclude these reports altogether from our analysis.
+
 <h2>Analysis and Results:</h2>
 
 <h2>Tableau Packaged Workbook:</h2>
