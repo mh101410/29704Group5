@@ -90,31 +90,7 @@ Another manipulation we made was excluding the rows in which the "Borough" colum
 
 <h2>Analysis and Results:</h2>
 
-The borough of Manhattan is home to around 1.5 million people. It is primarily known for its dense population and  job market, which attracts many commuters. However, when cross-referencing this knowledge with the data, one would expect that Manhattan would carry one of the highest rates of deaths and collisions. This is quite the opposite. According to our data, Manhattan has the second lowest collision rate and a death rate of about .000959. This is potentially due to the extensive public transportation available in Manhattan. Even though Manhattan has a high number of civilians, only “22% of households own a car” (“New Yorkers and Their Cars.” New Yorkers and Their Cars | NYCEDC). Since a majority of households do not own a car, this could explain their low number of collisions despite the high population. 
-
-Comparatively, the Bronx has a similar number of collisions sitting at around 1,132 and 1 death. While the Bronx is double the size of Manhattan, another explanation for its higher accident count is the possibility of a more complex city layout. On top of that, the Bronx car ownership rate is close to double that of Manhattan, at about 40%. So, a bigger, more complex city layout coupled with a higher presence of cars will lead to a higher collision rate. 
-
-**What are the patterns in cyclist injuries in Brooklyn over different hours of the day compared to the other boroughs?**
-
-<center>
-    <img src="https://github.com/mh101410/29704Group5/blob/main/E703056E-6B04-4BA9-9656-E0E28BA22644.jpeg?raw=true" width="50%" height="50%">
-</center>
-
-<center>
-    <img src="https://github.com/mh101410/29704Group5/blob/main/FE992263-6F35-41CE-A579-E5ED2C6517E5.jpeg?raw=true" width="50%" height="50%">
-</center>
-
-<center>
-    <img src="https://github.com/mh101410/29704Group5/blob/main/DC9D15B5-B518-468C-84C6-419283413B6C.jpeg?raw=true" width="50%" height="50%">
-</center>
-
-Analysis: 
-
-**Figure 1** shows a clear pattern of Brooklyn's cycling-related injuries over 24 hours. Each point represents the number of injuries occurring in the data within that hour, for example, the 671 cyclists injured at 8:00 AM represent all those hurt between 8:00 and 8:59 AM from our dataset. Early in the morning, from midnight until about 4:00 AM, cyclist injuries continually decline, which makes sense given that the majority of the borough’s population will be at home asleep. Then, the number of injuries bottoms out at 4:00 AM when the morning rush hour begins, prompting a sudden spike that endures until 6:00 PM when the number of cyclist injuries peaks at 1,460. This implies that the afternoon is the riskiest period for bicycles in Brooklyn, likely encompassing the lunch hour and the first part of the evening rush. The data then reveals a sharp fall in injuries after peak, which could be a sign of fewer cyclists as the evening wears on.
-
-This injury count that jumps at 4:00 AM and falls at 6:00 PM is rigidly in line with the traditional work schedule. With the expected high traffic around the city explained by New Yorkers’ commutes, it’s certainly the case that the higher number of employee traffic explains the stark increase in injuries. A key insight we gleaned from the data is that, despite Queens and Brooklyn having similar populations throughout the range of data, Brooklyn has significantly more injuries throughout the data period than Brooklyn as shown in **figure 2**. Figure 3 shows that the total number of injured cyclists in the data was 8,238 in Queens and nearly double in Brooklyn at 16,586. So, despite Brooklyn and Queens having similar populations, there is a confirmed discrepancy in the former borough’s handling of bikers’ safety, highlighting the need for them to learn from how the latter has more effectively protected its residents.
-
-Manipulations: Rows where Time 12:00:00 AM and where borough value = null are excluded
+**1. In 2022, How do the different numbers of traffic incidents and resulting deaths vary across different boroughs (Bronx, Brooklyn, Manhattan, Queens, Staten Island) in NYC during rush hours (9 AM and 5 PM), as visualized on a Tableau Coordinate Map?**
 
 <img width="724" alt="Screenshot 2023-12-04 at 11 57 25" src="https://github.com/mh101410/29704Group5/assets/148079593/02e5c77b-d305-42e3-bd5c-65d881482a3c">
 
@@ -139,8 +115,29 @@ Queens is a unique data cluster as it has the second-highest collision rate, yet
 
 Brooklyn has the highest collision number out of all 5 boroughs and has 2 deaths for those. While the death rate is lower, the collision count is nearly double that of Manhattan and Bronx. This could be due to Brooklyn having the largest population of about 2.3 million people. Its similar car ownership to the Bronx, of around 44% is negated due to its huge population. 
 
-The last Borough of Staten Island had around 280 collisions and 0 deaths. Staten Island is about 58 square miles and boasts a population of 378,000. This large borough with a comparatively small population is a formula for minimal accidents. While car ownership skyrockets to 83%, the thinly distributed characteristic of its population negates any increased chance of collision. 
+The last Borough of Staten Island had around 280 collisions and 0 deaths. Staten Island is about 58 square miles and boasts a population of 378,000. This large borough with a comparatively small population is a formula for minimal accidents. While car ownership skyrockets to 83%, the thinly distributed characteristic of its population negates any increased chance of collision.
 
+**What are the patterns in cyclist injuries in Brooklyn over different hours of the day compared to the other boroughs?**
+
+<center>
+    <img src="https://github.com/mh101410/29704Group5/blob/main/E703056E-6B04-4BA9-9656-E0E28BA22644.jpeg?raw=true" width="50%" height="50%">
+</center>
+
+<center>
+    <img src="https://github.com/mh101410/29704Group5/blob/main/FE992263-6F35-41CE-A579-E5ED2C6517E5.jpeg?raw=true" width="50%" height="50%">
+</center>
+
+<center>
+    <img src="https://github.com/mh101410/29704Group5/blob/main/DC9D15B5-B518-468C-84C6-419283413B6C.jpeg?raw=true" width="50%" height="50%">
+</center>
+
+Analysis: 
+
+**Figure 1** shows a clear pattern of Brooklyn's cycling-related injuries over 24 hours. Each point represents the number of injuries occurring in the data within that hour, for example, the 671 cyclists injured at 8:00 AM represent all those hurt between 8:00 and 8:59 AM from our dataset. Early in the morning, from midnight until about 4:00 AM, cyclist injuries continually decline, which makes sense given that the majority of the borough’s population will be at home asleep. Then, the number of injuries bottoms out at 4:00 AM when the morning rush hour begins, prompting a sudden spike that endures until 6:00 PM when the number of cyclist injuries peaks at 1,460. This implies that the afternoon is the riskiest period for bicycles in Brooklyn, likely encompassing the lunch hour and the first part of the evening rush. The data then reveals a sharp fall in injuries after peak, which could be a sign of fewer cyclists as the evening wears on.
+
+This injury count that jumps at 4:00 AM and falls at 6:00 PM is rigidly in line with the traditional work schedule. With the expected high traffic around the city explained by New Yorkers’ commutes, it’s certainly the case that the higher number of employee traffic explains the stark increase in injuries. A key insight we gleaned from the data is that, despite Queens and Brooklyn having similar populations throughout the range of data, Brooklyn has significantly more injuries throughout the data period than Brooklyn as shown in **figure 2**. Figure 3 shows that the total number of injured cyclists in the data was 8,238 in Queens and nearly double in Brooklyn at 16,586. So, despite Brooklyn and Queens having similar populations, there is a confirmed discrepancy in the former borough’s handling of bikers’ safety, highlighting the need for them to learn from how the latter has more effectively protected its residents.
+
+Manipulations: Rows where Time 12:00:00 AM and where borough value = null are excluded
 
 <h2>Tableau Packaged Workbook:</h2>
 
