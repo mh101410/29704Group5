@@ -47,6 +47,7 @@ By filtering by different boroughs, our group can provide which areas of NYC nee
 2. What are the patterns in cyclist injuries in Brooklyn over different hours of the day? (MICHAELS)
 
 <h3>Importance and Relevance:</h3>
+
 **Cycling Safety Assessment:** By finding the times of day when riders are most likely to get in an accident, this question aims to improve bike safety in Brooklyn. This information is essential for creating focused safety initiatives and marketing, by understanding key points in the data when riders are most at risk.
 
 **Urban Planning:** Knowing when cyclists are most susceptible to crashes will help future design of infrastructure, bike lanes, and riding routes that will be safer, particularly during hours of high injury traffic.
