@@ -59,6 +59,7 @@ Policy Making: The results of this analysis can help NYC’s  government design 
 
 <h3>Tie to the Dataset:</h3>
 Analyzing the trends of cycling-related incidents is made possible by the time-stamped (by hour) data on rider injuries in the dataset. 
+
 The analysis of different vehicles and hazards that bicycle riders in Brooklyn encounter during the day necessitate the availability of this comprehensive temporal data.
 
 <h2>Manipulations of the Data Set:</h2>
