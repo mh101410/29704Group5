@@ -44,6 +44,21 @@ These incidents described- we displayed on a coordinate map, to highlight signif
 By filtering by different boroughs, our group can provide which areas of NYC need the most allocation of time and resources.
 
 <h2>Question Two:</h2>
+2. What are the patterns in cyclist injuries in Brooklyn over different hours of the day? (MICHAELS)
+
+<h3>Importance and Relevance:</h3>
+**Cycling Safety Assessment:** By finding the times of day when riders are most likely to get in an accident, this question aims to improve bike safety in Brooklyn. This information is essential for creating focused safety initiatives and marketing, by understanding key points in the data when riders are most at risk.
+
+**Urban Planning:** Knowing when cyclists are most susceptible to crashes will help future design of infrastructure, bike lanes, and riding routes that will be safer, particularly during hours of high injury traffic.
+
+**Public Awareness Campaigns:** By educating everyday bikers and drivers about the riskiest times to ride, the analysis can encourage safer and more cautious behavior.
+Policy Making: The results of this analysis can help NYC’s  government design policies and enforcement laws and regualtions that target periods of the day when cycling injuries are more common.
+
+**Sustainable Transport Culture:** The analysis can support cycling as a sustainable means of transportation in urban environments like NYC by addressing safety concerns and improving safer riding conditions.
+
+<h3>Tie to the Dataset:</h3>
+Analyzing the trends of cycling-related incidents is made possible by the time-stamped (by hour) data on rider injuries in the dataset. 
+The analysis of different vehicles and hazards that bicycle riders in Brooklyn encounter during the day necessitate the availability of this comprehensive temporal data.
 
 <h2>Manipulations of the Data Set:</h2>
 
