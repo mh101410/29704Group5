@@ -85,7 +85,9 @@ The analysis of different vehicles and hazards that bicycle riders in Brooklyn e
 
 <h2>Manipulations of the Data Set:</h2>
 
-The only manipulation we made on the dataset was the exclusion of those rows in which the time reported for the crash was exactly midnight (i.e. 12:00 AM or 0:00 in 24-hour time). The timing of these reports is likely the result of the police not listing the actual time of the crash and just the date. As a result, there was an excessively high number of reports all at midnight, which greatly skewed the data. Because our analysis focuses on trends of crashes based on time of day, we decided it would be best to exclude these reports altogether from our analysis. To remove these from our analysis, we created a filter for exclusion. Additionally, we created filters based upon the questions we created for analysis. For instance, our first question focuses on crashes in a specific year 2022 during specific times of the day (9 am-5 pm). Additionally, our second question focuses only on cyclist data coming out of the Brooklyn borough.
+One manipulation we made on the dataset was the exclusion of those rows in which the time reported for the crash was exactly midnight (i.e. 12:00 AM or 0:00 in 24-hour time). The timing of these reports is likely the result of the police not listing the actual time of the crash and just the date. As a result, there was an excessively high number of reports all at midnight, which greatly skewed the data. Because our analysis focuses on trends of crashes based on time of day, we decided it would be best to exclude these reports altogether from our analysis. To remove these from our analysis, we created a filter for exclusion. Additionally, we created filters based upon the questions we created for analysis. For instance, our first question focuses on crashes in a specific year 2022 during specific times of the day (9 am-5 pm). Additionally, our second question focuses only on cyclist data coming out of the Brooklyn borough.
+
+Another manipulation we made was excluding the rows in which the "Borough" column held a null value from Question 2's figures. The occurrence of null values in these cases likely were the result of police offers not listing the borough in their report, and since the borough comparisons were extremely important to our second question, there would be little value in retaining rows in which borough information was not present.
 
 <h2>Analysis and Results:</h2>
 
@@ -96,7 +98,6 @@ Comparatively, the Bronx has a similar number of collisions sitting at around 1,
 
 **What are the patterns in cyclist injuries in Brooklyn over different hours of the day compared to the other boroughs?**
 <img width="634" alt="Screenshot 2023-12-04 at 22 17 57" src="https://github.com/mh101410/29704Group5/assets/148079593/9b341473-0f39-4542-81df-36f33fba61d0">
-
 
 <img width="699" alt="Screenshot 2023-12-04 at 22 18 03" src="https://github.com/mh101410/29704Group5/assets/148079593/dcba2d40-ac94-4284-b8cf-7b094826a235">
 
