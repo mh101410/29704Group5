@@ -23,7 +23,8 @@ The dataset we have chosen for analysis is the Motor Vehicle Collisions in New Y
 
 <h2>Questions to Analyze:</h2>
 <h2>Question One:</h2>
-1. In 2022, How do the different numbers of traffic incidents and resulting deaths vary across different boroughs (Bronx, Brooklyn, Manhattan, Queens, Staten Island) in NYC during rush hours (9 AM and 5 PM), as visualized on a Tableau Coordinate Map?
+
+**1. In 2022, How do the different numbers of traffic incidents and resulting deaths vary across different boroughs (Bronx, Brooklyn, Manhattan, Queens, Staten Island) in NYC during rush hours (9 AM and 5 PM), as visualized on a Tableau Coordinate Map?**
 <h3>Importance & Relevance:</h3>
 
 **Safety Insights:** This Tableau coordinate map helps determine which NYC boroughs are most impacted by vehicle-related deaths. By using the coordinate map to find trends within different areas of the city, public health programs and safety measures can be specifically targeted to areas in the most need. For example, Queens had the most deaths at 3.
@@ -44,7 +45,8 @@ These incidents described- we displayed on a coordinate map, to highlight signif
 By filtering by different boroughs, our group can provide which areas of NYC need the most allocation of time and resources.
 
 <h2>Question Two:</h2>
-2. What are the patterns in cyclist injuries in Brooklyn over different hours of the day? (MICHAELS)
+
+**2. What are the patterns in cyclist injuries in Brooklyn over different hours of the day? (MICHAELS)**
 
 <h3>Importance and Relevance:</h3>
 
