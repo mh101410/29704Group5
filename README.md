@@ -97,9 +97,8 @@ The borough of Manhattan is home to around 1.5 million people. It is primarily k
 Comparatively, the Bronx has a similar number of collisions sitting at around 1,132 and 1 death. While the Bronx is double the size of Manhattan, another explanation for its higher accident count is the possibility of a more complex city layout. On top of that, the Bronx car ownership rate is close to double that of Manhattan, at about 40%. So, a bigger, more complex city layout coupled with a higher presence of cars will lead to a higher collision rate. 
 
 **What are the patterns in cyclist injuries in Brooklyn over different hours of the day compared to the other boroughs?**
-<img width="634" alt="Screenshot 2023-12-04 at 22 17 57" src="https://github.com/mh101410/29704Group5/assets/148079593/9b341473-0f39-4542-81df-36f33fba61d0">
+![Figure 3](https://github.com/mh101410/29704Group5/blob/main/FE992263-6F35-41CE-A579-E5ED2C6517E5.jpeg?raw=true)
 
-<img width="699" alt="Screenshot 2023-12-04 at 22 18 03" src="https://github.com/mh101410/29704Group5/assets/148079593/dcba2d40-ac94-4284-b8cf-7b094826a235">
 
 Analysis: 
 
