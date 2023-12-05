@@ -116,7 +116,7 @@ Analysis:
 
 This injury count that jumps at 4:00 AM and falls at 6:00 PM is rigidly in-line with the traditional work schedule. With the expected high traffic around the city explained by New Yorkers’ commutes, it’s certainly the case that the higher number of employee traffic explains the stark increase in injuries. A key insight we gleaned from the data is that, despite Queens and Brooklyn having similar populations throughout the range of data, Brooklyn has significantly more injuries throughout the data period than Brooklyn as shown in **figure 2**. In fact, figure 3 shows that the total number of injured cyclists in the data was 8,238 in Queens and nearly double in Brooklyn at 16,586. So, despite Brooklyn and Queens having similar populations, there is a confirmed discrepancy in the former borough’s handling of bikers’ safety, highlighting the need for them to learn from how the latter has more effectively protected its residents.
 
-Manipulations: Time 12:00:00 AM excluded
+Manipulations: Rows where Time 12:00:00 AM and where borough value = null are excluded
 
 <img width="724" alt="Screenshot 2023-12-04 at 11 57 25" src="https://github.com/mh101410/29704Group5/assets/148079593/02e5c77b-d305-42e3-bd5c-65d881482a3c">
 
