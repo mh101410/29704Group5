@@ -21,7 +21,6 @@
 
 The dataset we have chosen for analysis is the Motor Vehicle Collisions in New York City, found at the following link: https://catalog.data.gov/dataset/motor-vehicle-collisions-crashes. Each row in the dataset details a crash reported to the NYPD using MV-104AN forms filed surrounding the crash. These forms are used for those collisions in which either major injuries/death occur or $1,000 in vehicle damage is done. The data dimensions collected in these forms include date in mm/dd/yyyy and time in hh:mm of the crash, borough of the crash (i.e. Brooklyn, Manhattan, etc.), zip code, latitude/longitude, the street on which the crash occurred, the cross street/off street (where applicable), number of injuries/deaths by category (number of pedestrians injured, number of cyclists killed, etc.), contributing factors to the crash, collision id (primary key), and the vehicle code (4 door sedan, truck, etc.). With regards to data types; boroughs, streets, vehicle code, location (latitude, longitude), and contributing factors are all of string data type; collision id and number of deaths by category are int types, and zip code (int) and latitude/longitude (decimal) are loaded into Tableau assuming their respective geographic roles. One key thing to note about the original data is that there can be multiple categories of injuries/deaths, contributing factors, and vehicle codes (up to 5 each).
 
-<h2>Questions to Analyze:</h2>
 <h2>Question One:</h2>
 
 **1. In 2022, How do the different numbers of traffic incidents and resulting deaths vary across different boroughs (Bronx, Brooklyn, Manhattan, Queens, Staten Island) in NYC during rush hours (9 AM and 5 PM), as visualized on a Tableau Coordinate Map?**
@@ -46,7 +45,7 @@ By filtering by different boroughs, our group can provide which areas of NYC nee
 
 <h2>Question Two:</h2>
 
-**2. What are the patterns in cyclist injuries in Brooklyn over different hours of the day? (MICHAELS)**
+**2. What are the patterns in cyclist injuries in Brooklyn over different hours of the day?**
 
 <h3>Importance and Relevance:</h3>
 
