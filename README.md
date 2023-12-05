@@ -72,10 +72,15 @@ The only manipulation we made on the dataset was the exclusion of those rows in 
 <img width="724" alt="Screenshot 2023-12-04 at 11 57 25" src="https://github.com/mh101410/29704Group5/assets/148079593/02e5c77b-d305-42e3-bd5c-65d881482a3c">
 
 Manhattan Red - 1043 accidents / 1 killed
+
 Bronx Blue - 1132 / 1 killed 
+
 Queens Teal 1567 / 3 killed 
+
 Brooklyn Yellow 2198 / 2 killed
+
 Staten Island 280 / 0 killed
+
 Manipulations: only 9 AM and 5 PM were included, all NULL values were excluded 
 
 The borough of Manhattan is home to around 1.5 million people. It is primarily known for its dense population and  job market, which attracts many commuters. However, when cross-referencing this knowledge with the data, one would expect that Manhattan would carry one of the highest rates of deaths and collisions. This is quite the opposite. According to our data, Manhattan has the second lowest collision rate and a death rate of about .000959. This is potentially due to the extensive public transportation available in Manhattan. Even though Manhattan has a high number of civilians, only “22% of households own a car” (“New Yorkers and Their Cars.” New Yorkers and Their Cars | NYCEDC). Since a majority of households do not own a car, this could explain their low number of collisions despite the high population. 
