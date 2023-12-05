@@ -69,7 +69,24 @@ The analysis of different vehicles and hazards that bicycle riders in Brooklyn e
 The only manipulation we made on the dataset was the exclusion of those rows in which the time reported for the crash was exactly midnight (i.e. 12:00 AM or 0:00 in 24-hour time). The timing of these reports is likely the result of the police not listing the actual time of the crash and just the date. As a result, there was an excessively high number of reports all at midnight, which greatly skewed the data. Because our analysis focuses on trends of crashes based on time of day, we decided it would be best to exclude these reports altogether from our analysis. To remove these from our analysis, we created a filter for exclusion. Additionally, we created filters based upon the questions we created for analysis. For instance, our first question focuses on crashes in a specific year 2022 during specific times of the day (9 am-5 pm). Additionally, our second question focuses only on cyclist data coming out of the Brooklyn borough.
 
 <h2>Analysis and Results:</h2>
-<img width="778" alt="Screenshot 2023-12-04 at 19 13 11" src="https://github.com/mh101410/29704Group5/assets/148079593/c739d7a6-d487-4652-bfda-f12f3f300828">
+<img width="724" alt="Screenshot 2023-12-04 at 11 57 25" src="https://github.com/mh101410/29704Group5/assets/148079593/02e5c77b-d305-42e3-bd5c-65d881482a3c">
+
+Manhattan Red - 1043 accidents / 1 killed
+
+Bronx Blue - 1132 / 1 killed 
+
+Queens Teal 1567 / 3 killed 
+
+Brooklyn Yellow 2198 / 2 killed
+
+Staten Island 280 / 0 killed
+
+Manipulations: only 9 AM and 5 PM were included, all NULL values were excluded 
+
+The borough of Manhattan is home to around 1.5 million people. It is primarily known for its dense population and  job market, which attracts many commuters. However, when cross-referencing this knowledge with the data, one would expect that Manhattan would carry one of the highest rates of deaths and collisions. This is quite the opposite. According to our data, Manhattan has the second lowest collision rate and a death rate of about .000959. This is potentially due to the extensive public transportation available in Manhattan. Even though Manhattan has a high number of civilians, only “22% of households own a car” (“New Yorkers and Their Cars.” New Yorkers and Their Cars | NYCEDC). Since a majority of households do not own a car, this could explain their low number of collisions despite the high population. 
+
+Comparatively, the Bronx has a similar number of collisions sitting at around 1,132 and 1 death. While the Bronx is double the size of Manhattan, another explanation for its higher accident count is the possibility of a more complex city layout. On top of that, the Bronx car ownership rate is close to double that of Manhattan, at about 40%. So, a bigger, more complex city layout coupled with a higher presence of cars will lead to a higher collision rate. 
+
 
 
 <h2>Tableau Packaged Workbook:</h2>
