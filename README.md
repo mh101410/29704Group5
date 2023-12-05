@@ -87,6 +87,16 @@ The borough of Manhattan is home to around 1.5 million people. It is primarily k
 
 Comparatively, the Bronx has a similar number of collisions sitting at around 1,132 and 1 death. While the Bronx is double the size of Manhattan, another explanation for its higher accident count is the possibility of a more complex city layout. On top of that, the Bronx car ownership rate is close to double that of Manhattan, at about 40%. So, a bigger, more complex city layout coupled with a higher presence of cars will lead to a higher collision rate. 
 
+<img width="634" alt="Screenshot 2023-12-04 at 22 17 57" src="https://github.com/mh101410/29704Group5/assets/148079593/9b341473-0f39-4542-81df-36f33fba61d0">
+
+
+<img width="699" alt="Screenshot 2023-12-04 at 22 18 03" src="https://github.com/mh101410/29704Group5/assets/148079593/dcba2d40-ac94-4284-b8cf-7b094826a235">
+
+Analysis: 
+
+**Figure 1** shows a clear pattern of Brooklyn's cycling-related injuries over a 24-hour period. Each point represents the number of injuries occurring in the data within that hour, so for example, the 671 cyclists injured at 8:00 AM represents all those hurt between 8:00 and 8:59 AM from our dataset. Early in the morning, from midnight until about 4:00 AM, cyclist injuries continually decline, which makes sense given that the majority of the borough’s population will be at home asleep. Then, the number of injuries bottoms out at 4:00 AM when the morning rush hour begins, prompting a sudden spike that endures until 6:00 PM, when the number of cyclist injuries peaks at 1,460. This implies that the afternoon is the riskiest period for bicycles in Brooklyn, likely encompassing the lunch hour and the first part of the evening rush. The data then reveals a sharp fall in injuries after peak, which could be a sign of fewer cyclists as the evening wears on.
+
+This injury count that jumps at 4:00 AM and falls at 6:00 PM is rigidly in-line with the traditional work schedule. With the expected high traffic around the city explained by New Yorkers’ commutes, it’s certainly the case that the higher number of employee traffic explains the stark increase in injuries. A key insight we gleaned from the data is that, despite Queens and Brooklyn having similar populations throughout the range of data, Brooklyn has significantly more injuries throughout the data period than Brooklyn as shown in **figure 2**. In fact, figure 3 shows that the total number of injured cyclists in the data was 8,238 in Queens and nearly double in Brooklyn at 16,586. So, despite Brooklyn and Queens having similar populations, there is a confirmed discrepancy in the former borough’s handling of bikers’ safety, highlighting the need for them to learn from how the latter has more effectively protected its residents.
 
 
 <h2>Tableau Packaged Workbook:</h2>
