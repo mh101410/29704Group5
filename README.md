@@ -98,17 +98,17 @@ Comparatively, the Bronx has a similar number of collisions sitting at around 1,
 
 **What are the patterns in cyclist injuries in Brooklyn over different hours of the day compared to the other boroughs?**
 
-<div style="text-align: center;">
+<center>
     <img src="https://github.com/mh101410/29704Group5/blob/main/E703056E-6B04-4BA9-9656-E0E28BA22644.jpeg?raw=true" width="50%" height="50%">
-</div>
+</center>
 
-<div style="text-align: center;">
+<center>
     <img src="https://github.com/mh101410/29704Group5/blob/main/FE992263-6F35-41CE-A579-E5ED2C6517E5.jpeg?raw=true" width="50%" height="50%">
-</div>
+</center>
 
-<div style="text-align: center;">
+<center>
     <img src="https://github.com/mh101410/29704Group5/blob/main/DC9D15B5-B518-468C-84C6-419283413B6C.jpeg?raw=true" width="50%" height="50%">
-</div>
+</center>
 
 Analysis: 
 
