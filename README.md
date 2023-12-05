@@ -117,7 +117,7 @@ Brooklyn has the highest collision number out of all 5 boroughs and has 2 deaths
 
 The last Borough of Staten Island had around 280 collisions and 0 deaths. Staten Island is about 58 square miles and boasts a population of 378,000. This large borough with a comparatively small population is a formula for minimal accidents. While car ownership skyrockets to 83%, the thinly distributed characteristic of its population negates any increased chance of collision.
 
-**What are the patterns in cyclist injuries in Brooklyn over different hours of the day compared to the other boroughs?**
+**2. What are the patterns in cyclist injuries in Brooklyn over different hours of the day compared to the other boroughs?**
 
 <center>
     <img src="https://github.com/mh101410/29704Group5/blob/main/E703056E-6B04-4BA9-9656-E0E28BA22644.jpeg?raw=true" width="50%" height="50%">
